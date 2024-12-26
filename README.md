@@ -25,7 +25,7 @@ Amaç, işten ayrılan çalışanları tahmin etmektir. Bu aşamada:
 ## 4. K-Means Kümeleme
 İşten ayrılan çalışanlar, K-Means algoritması kullanılarak üç kümeye ayrıldı:
 - Optimal küme sayısı "Elbow Yöntemi" ve Silhouette Skoru ile belirlendi (k=3).
-- Kümelerin özellikleri analiz edildi ve yorumlandı.
+
 
 ## 5. Sonuçların Analizi
 Kümeleme sonuçlarına göre, çalışanların işten ayrılma nedenlerine ilişkin çıkarımlar yapıldı. Her kümenin ortalama özellikleri incelendi ve sonuçlar raporlandı.
